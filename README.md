@@ -16,7 +16,7 @@ A matrix calculator written in C that uses **pthreads** to parallelize addition,
 ## Build
 
 ```bash
-gcc -O2 -pthread -o mtmc main.c
+gcc -O2 -pthread MTMC.c -o MTMC
 ```
 
 ---
